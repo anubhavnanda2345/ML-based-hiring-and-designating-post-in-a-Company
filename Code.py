@@ -1,4 +1,4 @@
-First let's define a function that'll process the random skilss of candidates
+#First let's define a function that'll process the random skilss of candidates
 #that we want to predict whether to hire them or not
 variable = []
 def skill_process(skills):
@@ -164,4 +164,3 @@ if y_pred1 == ['Not hired']:
         print(k)
 else:
      print('Congratulations you are hired')
-        
